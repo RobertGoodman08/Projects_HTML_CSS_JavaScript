@@ -56,48 +56,48 @@
 
 ### - [Kinetic CSS Loader](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Kinetic%20CSS%20Loader) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Live User Filter](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Live%20User%20Filter) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Mobile Tab Navigation](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Mobile%20Tab%20Navigation) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Movie App](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Movie%20App) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Netflix Navigation](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Netflix%20Navigation) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Notes App](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Notes%20App) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Password Generator](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Password%20Generator) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Password Strength Background](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Password%20Strength%20Background) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Pokedex](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Pokedex) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Progress Steps](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Progress%20Steps) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Quiz App](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Quiz%20App) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Random Choice Picker](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Random%20Choice%20Picker) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Random Image Freed](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Random%20Image%20Freed) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Rotating Navigation](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Rotating%20Navigation) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Scroll Animation](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Scroll%20Animation) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Sound Board](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Sound%20Board) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Split Landing Page](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Split%20Landing%20Page) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Sticky Navbar](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Sticky%20Navbar) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Testimonial Box Switcher](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Testimonial%20Box%20Switcher) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Theme Clock](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Theme%20Clock) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Toast Notification](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Toast%20Notification) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Todo List](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Todo%20List) 
 
-### - [Animated](asasasasasasasasasas) 
+### - [Verify Account UI](https://github.com/RobertGoodman08/Projects_HTML_CSS_JavaScript/tree/master/Verify%20Account%20UI) 
 
-### - [Animated](asasasasasasasasasas) 
+
